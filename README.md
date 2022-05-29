@@ -27,7 +27,7 @@
 
 -  Master Degree, Data Scientist and Business Intelligence, UPAEP
 -  Bachelor Degree, Economics, UPAEP
--  International Emerging Economies Congress, WSE
+-  International Emerging Economies Congress, SGH Warsaw School of Economics: Studies
 
 
 

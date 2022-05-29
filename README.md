@@ -36,6 +36,8 @@
 
 [<img align="left" alt="365" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019–present%29.svg" style="padding-right:10px;" />][webdevplaylist]
 
+
+
 ## EDUCATION 📚 
 
 -  Master Degree, Data Scientist and Business Intelligence, UPAEP

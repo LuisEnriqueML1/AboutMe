@@ -20,12 +20,12 @@
 
 ## TOOLS
 
-[<img align="left" alt="Power BI" width="26px" src="https://i0.wp.com/mundowin.com/wp-content/uploads/2020/02/Fix-power-bi-cant-find-app.jpg?w=1200&ssl=1" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Power BI" width="26px" src="https://img1.freepng.es/20181110/wcw/kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b364874235.266374061541911396554.jpg" style="padding-right:10px;" />][webdevplaylist]
 
 [<img align="left" alt="Pyhton" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" style="padding-right:10px;" />][webdevplaylist]
 
 
-[<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/1088/1088856.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://png.pngtree.com/png-vector/20190409/ourlarge/pngtree-sql-file-document-icon-png-image_920263.jpg" />][webdevplaylist]
 
 
 [<img align="left" alt="R" width="26px" src="https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/logo_r.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -33,7 +33,7 @@
 [<img align="left" alt="Excel" width="26px" src="https://w7.pngwing.com/pngs/862/993/png-transparent-excel-icon-microsoft-excel-application-software-icon-excel-background-text-rectangle-logo-thumbnail.png" style="padding-right:10px;" />][webdevplaylist]
 
 
-[<img align="left" alt="365" width="26px" src="https://w7.pngwing.com/pngs/994/90/png-transparent-microsoft-office-2016-logo-microsoft-office-365-microsoft-office-2016-computer-software-icon-office-365-library-miscellaneous-angle-text.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="365" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019–present%29.svg" style="padding-right:10px;" />][webdevplaylist]
 
 
 

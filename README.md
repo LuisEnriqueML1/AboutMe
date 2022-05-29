@@ -19,6 +19,20 @@
 -  Data Science Professor
 
 
+
+
+
+
+## EDUCATION 📚 
+
+-  Master Degree, Data Scientist and Business Intelligence, UPAEP
+-  Bachelor Degree, Economics, UPAEP
+-  International Emerging Economies Congress, WSE
+
+
+
+
+
 ### TOOLS 🛠
 
 [<img align="left" alt="Power BI" width="26px" src="https://img1.freepng.es/20181110/wcw/kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b364874235.266374061541911396554.jpg" style="padding-right:10px;" />][webdevplaylist]
@@ -35,20 +49,6 @@
 
 
 [<img align="left" alt="365" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019–present%29.svg" style="padding-right:10px;" />][webdevplaylist]
-
-
-
-## EDUCATION 📚 
-
--  Master Degree, Data Scientist and Business Intelligence, UPAEP
--  Bachelor Degree, Economics, UPAEP
--  International Emerging Economies Congress, WSE
-
-
-
-
-
-
 
 
 

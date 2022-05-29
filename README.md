@@ -25,7 +25,7 @@
 [<img align="left" alt="Pyhton" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" style="padding-right:10px;" />][webdevplaylist]
 
 
-[<img align="left" alt="SQL" width="26px" src="https://png.pngtree.com/png-vector/20190409/ourlarge/pngtree-sql-file-document-icon-png-image_920263.jpg" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772165.png" />][webdevplaylist]
 
 
 [<img align="left" alt="R" width="26px" src="https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/logo_r.svg" style="padding-right:10px;" />][webdevplaylist]
